@@ -13,17 +13,17 @@ Actualment estic desenvolupant projectes que combinen programació, maquetació 
 ## 🛠️ Competències Tècniques
 
 ### **Desenvolupament**
-- **HTML i CSS** — Maquetació de pàgines web, flexbox, formularis i estructura semàntica.  
-- **Java** — Desenvolupament de projectes bàsics i creació d’interfícies gràfiques amb Swing.  
-- **JavaScript (nivell inicial)** — Validació de formularis, interaccions senzilles i manipulació del DOM.  
-- **MySQL** — Consultes simples, creació de taules i inserció de dades.  
-- **Git i GitHub** — Control de versions, gestió de repositoris i ús de branques.
+- **HTML i CSS** ➜ Maquetació de pàgines web, flexbox, formularis i estructura semàntica.  
+- **Java** ➜ Desenvolupament de projectes bàsics i creació d’interfícies gràfiques amb Swing.  
+- **JavaScript (nivell inicial)** ➜ Validació de formularis, interaccions senzilles i manipulació del DOM.  
+- **MySQL** ➜ Consultes simples, creació de taules i inserció de dades.  
+- **Git i GitHub** ➜ Control de versions, gestió de repositoris i ús de branques.
 
 ### **Eines**
-- **VS Code** — Configuració de l’entorn, extensions i depuració bàsica.  
-- **IntelliJ IDEA** — Desenvolupament en Java i gestió de projectes.  
-- **Figma** — Prototips, wireframes i disseny d’interfícies.  
-- **Kanban** — Organització i seguiment de tasques durant el desenvolupament.
+- **VS Code** ➜ Configuració de l’entorn, extensions i depuració bàsica.  
+- **IntelliJ IDEA** ➜ Desenvolupament en Java i gestió de projectes.  
+- **Figma** ➜ Prototips, wireframes i disseny d’interfícies.  
+- **Kanban** ➜ Organització i seguiment de tasques durant el desenvolupament.
 
 ---
 
