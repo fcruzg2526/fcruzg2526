@@ -33,6 +33,14 @@ Aprofundeixo en programació, bases de dades, bones pràctiques i estructuració
 El meu objectiu és continuar avançant, aprendre de professionals del sector i trobar l’àrea del desenvolupament on em senti més identificada.
 
 ---
+## 📬 Contacte
+
+Si vols contactar amb mi per a col·laboracions, projectes o qualsevol consulta, em pots trobar aquí:
+
+- **Email:** flaviacruzgomez@gmail.com   
+- **GitHub:** https://github.com/fcruzg2526  
+
+---
 
 Al meu GitHub trobaràs alguns dels projectes que he realitzat al llarg del curs de DAW.
 
