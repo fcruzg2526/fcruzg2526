@@ -32,5 +32,9 @@ Estic reforçant els meus coneixements en programació i desenvolupament web, es
 Aprofundeixo en programació, bases de dades, bones pràctiques i estructuració de projectes. També estic millorant la meva capacitat per crear interfícies clares i funcionals, i per resoldre problemes tècnics de manera eficient.
 El meu objectiu és continuar avançant, aprendre de professionals del sector i trobar l’àrea del desenvolupament on em senti més identificada.
 
+---
 
+Al meu GitHub trobaràs alguns dels projectes que he realitzat al llarg del curs de DAW.
+
+Gràcies per visitar-lo :star2: :heart:
 
