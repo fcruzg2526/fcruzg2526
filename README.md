@@ -1,4 +1,4 @@
-# ✨ Hola, sóc la Flavia ✨  
+# ✨ Hola a tots i totes! ✨  
 **Junior Web Developer in progress**
 
 ## 🖤 Sobre mi  
